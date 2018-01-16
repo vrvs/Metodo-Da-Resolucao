@@ -2,7 +2,7 @@
 
 Projeto 2 da cadeira de Lógica para Computação (IF673)
 
-# Projeto II - Gerador de Tabela-Verdade
+## Projeto II - Gerador de Tabela-Verdade
 
 O Projeto é um programa que aplica o Método da Resolução em Expressões bem-formadas. Para tal, haverá a necessidade que seu programa verifique se a expressão de entrada está na FNC e se todas as cláusulas são de Horn. É garantido que as expressões serão bem-formadas.
 O programa poderá ser feito nas linguagens Python, C, C++ ou Java.
@@ -59,7 +59,7 @@ Saída: Nome do arquivo "Expressoes.out"
 
 Para cada caso de teste imprima uma linha contendo "caso #x", onde x indica o número de caso de teste, iniciando de '1'. Na mesma linha, imprima a resposta como "satisfativel" ou "insatisfativel".	Se a entrada não estiver na Fórmula Normal Conjuntiva, imprima "nao esta na FNC" e passe para a próxima expressão. Se a entrada não estiver de modo que todas as cláusulas são de Horn, imprima "nem todas as clausulas sao de horn" e passe para a próxima expressão. 
 
-Exemplo
+## Exemplo
 
 Arquivo: "Expressoes.in"
 
@@ -129,8 +129,7 @@ satisfativel e refutavel
 
 
 
-Dúvidas Frequentes
-
+## Dúvidas Frequentes
 
 ■ Do pacote java.util somente poderão ser utilizadas as classes Vector, ArrayList e Scanner.
 
