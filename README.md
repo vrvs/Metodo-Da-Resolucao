@@ -1,4 +1,4 @@
-# Metodo-Da-Resolucao
+# Método da Resolução
 
 Projeto 2 da cadeira de Lógica para Computação (IF673)
 
