@@ -48,6 +48,7 @@ Operador Unário | Operador Binário
 
 
 ■ Quanto à Entrada/Saída
+
 Nome do arquivo: "Resolucao.xx" 
 
 Entrada: Nome do arquivo "Expressoes.in"
